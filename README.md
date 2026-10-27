@@ -1,5 +1,8 @@
 # gutshackathon
 
+NOTE - this is a mirror of the final repository state created by my team at https://github.com/domody/gutshackathon . Mirrored rather than forked to show Contributors and other exact data, but full credit shown at the bottom of this README and in the attached link.
+
+
 ## Setup
 
 1. Install uv: https://docs.astral.sh/uv/getting-started/installation/
